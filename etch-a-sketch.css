@@ -1,0 +1,11 @@
+.container {
+    height: 768px;
+    width: 768px;
+    margin: 0 auto;
+}
+
+.grid-item {
+    border: black solid 1px;
+    justify-self: auto;
+    align-self: auto;
+}
