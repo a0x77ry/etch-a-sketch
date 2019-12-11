@@ -1,3 +1,12 @@
+h1 {
+    text-align: center;
+    width: 640px;
+    margin: 40px auto 0 auto;
+    font-family: 'Mansalva', cursive;
+    font-weight: bold;
+    font-size: xxx-large;
+}
+
 .container {
     height: 768px;
     width: 768px;
@@ -10,19 +19,15 @@
     align-self: auto;
 }
 
-.active {
-    background: black;
-}
-
 .buttons {
-    height: 100px;
     width: 640px;
-    margin: 0 auto;
+    margin: 20px auto;
     text-align: center;
 }
 
 button {
     display: inline-block;
+    font-size: 16px;
     margin: 30px auto;
     padding: 10px 20px;
     border-radius: 5px;
